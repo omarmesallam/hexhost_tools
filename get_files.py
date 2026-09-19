@@ -56,9 +56,9 @@ if __name__ == "__main__":
     # If your site is 'mohamed.hexhost.online', the public URL would be:
     # http://www.mohamed.hexhost.online/assets/assets/book/part1/K1-004.jpg
     
-    cpanel_url = "http://www.mohamed.hexhost.online:2082/cpsess9872382387/viewer/home%2fmohamedm%2fpublic_html%2fassets%2fassets%2fbook%2fpart2/K2-004.jpg"
+    cpanel_url = "http://www.mohamed.hexhost.online:2082/cpsess9872382387/viewer/home%2fmohamedm%2fpublic_html%2fassets%2fassets%2fbook%2fpart2/K2-014.jpg"
     
     # Try the public URL instead:
-    public_url = "http://www.mohamed.hexhost.online/assets/assets/book/part2/K2-004.jpg"
+    public_url = "http://www.mohamed.hexhost.online/assets/assets/book/part2/K2-014.jpg"
     
     download_and_view(public_url)

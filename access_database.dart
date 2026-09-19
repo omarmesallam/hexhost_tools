@@ -123,13 +123,13 @@ void main() async {
 
   if (connection != null) {
     // 2. Example Data
-    final dataRows = [
-      ['mohamed hussin', 'mhussin@fff.sss'],
-      ['ahmed hussin', 'sdsdad@ddd.com']
-    ];
+    // final dataRows = [
+    //   ['mohamed hussin', 'mhussin@fff.sss'],
+    //   ['ahmed hussin', 'sdsdad@ddd.com']
+    // ];
 
     // 3. Add and Read Data
-    await addDataToTable(connection, 'secretdata', dataRows);
+    // await addDataToTable(connection, 'secretdata', dataRows);
     await readTableData(connection, 'secretdata');
 
     // 4. Close Connection
